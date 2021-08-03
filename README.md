@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="asuka.gif">
+  <img src="end.gif">
 </p>
