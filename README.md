@@ -1,2 +1,3 @@
-- 👋 Hi, I’m senko
-![alt](asuka.gif)
+<p align="center">
+  <img src="asuka.gif">
+</p>
